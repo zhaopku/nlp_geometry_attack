@@ -1,1 +1,3 @@
-# nlp_geometry_attack
+# A Geometry-Inspired Attack for Generating Natural Language Adversarial Examples
+
+Coming Soon.
