@@ -15,7 +15,7 @@ This is the official repo of our COLING 2020 Paper: **[A Geometry-Inspired Attac
 
       python main.py --max_loops 50 --perturb_correct  --n_samples_to_disk -1 --batch_size 250 --model lstm --max_steps 600 --dataset imdb --hidden_size 128 --embedding glove.6B --vocab_size 60000 --embedding_size 100 --num_worker 0 --attack deepfool --load_model --model_path experiments/baseline/saved_models/imdb_lstm_esize_100_glove.6B_u_lr_0.001_h_128_bt_1000_s_600/9.pth
 
-Details of commandline options in models/train.py.
+Details of commandline options in ``models/train.py``.
 
 ## Citation
 
